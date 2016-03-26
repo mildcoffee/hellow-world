@@ -1,2 +1,2 @@
 # hellow-world
-a beginning to github
+just a beginning to github
